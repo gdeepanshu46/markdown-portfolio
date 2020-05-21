@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# I love doing!
+- coding
+- playing chess
+- bike riding
+- surfing net
